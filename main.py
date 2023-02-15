@@ -4,5 +4,5 @@ from creacio import creacion_xml
 
 creacion_xml()
 
-print(exe_b)
-print(exe_b2)
+print(exe_b.escriureArxiu())
+print(exe_b2.llegirArxiu())
